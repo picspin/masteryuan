@@ -393,8 +393,7 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background: #f0f url('ww4.sinaimg.cn/large/445c508cjw1egjwbf2odfj205w05w3yn.jpg');
-    background-size: cover;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    background-size: cover;}
   .tile.tile-4 .tile-inner {
     background: #f0f url('http://ww1.sinaimg.cn/large/445c508cjw1egjwdg0qcyj205w05w74m.jpg');
     background-size: cover;}
